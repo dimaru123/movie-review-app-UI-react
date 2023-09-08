@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+*{
+    box-sizing: border-box;
+    font-family: 'Oswald',  Arial, Helvetica, sans-serif;
+}
+
+body{
+    padding:0;
+    margin: 0;
+}
+.App{
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+}
+
