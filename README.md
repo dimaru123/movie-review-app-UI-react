@@ -1,2 +1,0 @@
-# MovieUI
-A react project
